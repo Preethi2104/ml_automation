@@ -1,4 +1,4 @@
-# ml_automation
+# ML_Automation
 This project is a web scraper built using Selenium to extract information about chicken recipes from the AllRecipes website. The script collects data such as recipe name, ratings, number of reviews, total time, servings, calories, fat, carbs, and protein content.
 
 # Features
